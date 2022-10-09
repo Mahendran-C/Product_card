@@ -97,7 +97,7 @@
     background-color: hsl(158, 49%, 19%);
   }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 600px) {
     .perfume{
         height: 100%;
     }
